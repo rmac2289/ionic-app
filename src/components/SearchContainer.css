@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  justify-content: center;
+  padding: 2rem;
+  transform: translateY(-50%);
+  border: 1px solid var(--ion-color-primary);
+}
+button {
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 25px;
+  margin-top: 10px;
+}
+#search {
+  color: black;
+}
+
+.container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.container p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #8c8c8c;
+  margin: 0;
+}

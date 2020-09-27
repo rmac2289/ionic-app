@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+}
+li {
+  border: 1px solid var(--ion-color-secondary);
+}
