@@ -1,0 +1,7 @@
+{
+  "name": "public-safety",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
